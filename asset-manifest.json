@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/clash-config-builder/static/css/main.1dcfcea3.chunk.css",
+    "main.js": "/clash-config-builder/static/js/main.5afb13d7.chunk.js",
+    "main.js.map": "/clash-config-builder/static/js/main.5afb13d7.chunk.js.map",
+    "runtime-main.js": "/clash-config-builder/static/js/runtime-main.4b107252.js",
+    "runtime-main.js.map": "/clash-config-builder/static/js/runtime-main.4b107252.js.map",
+    "static/css/2.425c0eef.chunk.css": "/clash-config-builder/static/css/2.425c0eef.chunk.css",
+    "static/js/2.c63b3d10.chunk.js": "/clash-config-builder/static/js/2.c63b3d10.chunk.js",
+    "static/js/2.c63b3d10.chunk.js.map": "/clash-config-builder/static/js/2.c63b3d10.chunk.js.map",
+    "index.html": "/clash-config-builder/index.html",
+    "precache-manifest.2f6b80d11eda31ee87d4d971efe4f0bc.js": "/clash-config-builder/precache-manifest.2f6b80d11eda31ee87d4d971efe4f0bc.js",
+    "service-worker.js": "/clash-config-builder/service-worker.js",
+    "static/css/2.425c0eef.chunk.css.map": "/clash-config-builder/static/css/2.425c0eef.chunk.css.map",
+    "static/css/main.1dcfcea3.chunk.css.map": "/clash-config-builder/static/css/main.1dcfcea3.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b107252.js",
+    "static/css/2.425c0eef.chunk.css",
+    "static/js/2.c63b3d10.chunk.js",
+    "static/css/main.1dcfcea3.chunk.css",
+    "static/js/main.5afb13d7.chunk.js"
+  ]
+}
